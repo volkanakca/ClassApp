@@ -1,2 +1,2 @@
-# SinifApp
- SinifList
+# ClassApp
+ ClassList
